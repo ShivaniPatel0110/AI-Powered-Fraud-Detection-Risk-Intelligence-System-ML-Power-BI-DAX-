@@ -72,7 +72,7 @@ The system integrates **data analysis, predictive modeling, and business intelli
 ## 📸 Dashboard Preview
 
 ![Main Dashboard](screenshots/Dashboard.png)
-![AI Insights](screenshots/AIInsights.png)
+![AI Insights](screenshots/AI_Insights.png)
 
 ---
 
