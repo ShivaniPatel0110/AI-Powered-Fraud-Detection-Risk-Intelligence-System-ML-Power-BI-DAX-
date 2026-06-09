@@ -72,9 +72,9 @@ The system integrates **data analysis, predictive modeling, and business intelli
 ## 📸 Dashboard Preview
 
 ![Main Dashboard](C:\Users\LENOVO\Desktop\fraud-risk-intelligence-platform\screenshots
-\Dashboard.png)
+/Dashboard.png)
 ![AI Insights](C:\Users\LENOVO\Desktop\fraud-risk-intelligence-platform\screenshots
-\AI Insights.png)
+/AI Insights.png)
 
 ---
 
